@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #515076;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    color: #515076;
+    
+}
+.product-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+.main-text {
+    color: #515076;
+    line-height: 18px;
+    margin-top: 5px;
+    margin-block-end: 15px;
+    padding: 0;
+
+}
+.main-text_2 {
+    margin-block-end: 5px;
+
+}
+.main-text_sostav{
+    margin-block-end: 25px;
+    padding-left: 12px;
+
+}
+.card {
+    padding: 25;   
+}
+.indentation {
+    margin-top: 30px;
+}
+
+.indentation-name {
+    margin-top: 5px;
+    margin-block-end: 5px;
+
+
+}
