@@ -30,6 +30,11 @@ body {
 
 }
 
+.image {
+    margin-bottom: 30;
+
+}
+
 .main-text {
     line-height: 18px;
     margin-top: 5px;
@@ -56,18 +61,21 @@ body {
 .card {
     padding: 25;
     width: 290;
-    height: 450;
+    height: 480;
     background-color: rgb(243, 241, 240);
     block-size: border-box;
 
 }
 
 .category {
-    margin-top: 30px;
+    margin-top: 30;
+    margin-bottom: 5;
     text-transform: uppercase;
+    color: #5e5d77;
+
 }
 
-.category-name {
+.name-product {
     margin-top: 5px;
     margin-block-end: 5px;
 }
