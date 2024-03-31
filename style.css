@@ -3,7 +3,8 @@ body {
     font-size: 13px;
     color: #515076;
     background-image: url("/Users/deniskorchagin/Desktop/CODE/Обучение/MyFirstProject /study/Img/277dd19923dad086e076ad97f1496dc4.png");
-
+    background-repeat: no-repeat;
+    background-size: 790px 697px;
 }
 
 .title {
