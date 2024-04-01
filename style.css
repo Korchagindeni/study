@@ -2,16 +2,16 @@ body {
     font-family: Arial, sans-serif;
     font-size: 13px;
     color: #515076;
-    background-image: url("/Users/deniskorchagin/Desktop/CODE/Обучение/MyFirstProject /study/Img/277dd19923dad086e076ad97f1496dc4.png");
+    background-image: url("Users/deniskorchagin/Desktop/CODE/Обучение/MyFirstProject /study/Img/277dd19923dad086e076ad97f1496dc4.png");
     background-repeat: no-repeat;
     background-size: 790px 697px;
 }
 
 .title {
     font-size: 70px;
-    font-weight: 400;
+    font-weight: 400px;
     text-align: center;
-    margin-bottom: 100;
+    margin-bottom: 100px;
     color: #515076;
     
 }
@@ -26,12 +26,12 @@ body {
     row-gap: 45px;
     column-gap:45px;
     justify-content: center;
-    width: 1110;
+    width: 1110px;
 
 }
 
 .image {
-    margin-bottom: 30;
+    margin-bottom: 30px;
 
 }
 
@@ -46,12 +46,12 @@ body {
 .main-text_compaund {
     margin-block-end: 25px;
     margin-left: 0px;
-    padding-left: 12;
+    padding-left: 12px;
 
 }
 
 .main-text_price {
-    margin-top: 25;
+    margin-top: 25px;
     display:flex;
     flex-wrap:wrap;
     justify-content:space-between;
@@ -59,17 +59,16 @@ body {
 }
 
 .card {
-    padding: 25;
-    width: 290;
-    height: 480;
+    padding: 25px;
+    width: 290px;
+    height: 480px;
     background-color: rgb(243, 241, 240);
-    block-size: border-box;
 
 }
 
 .category {
-    margin-top: 30;
-    margin-bottom: 5;
+    margin-top: 30px;
+    margin-bottom: 5px;
     text-transform: uppercase;
     color: #5e5d77;
 
