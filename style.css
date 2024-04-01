@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     font-size: 13px;
     color: #515076;
-    background-image: url("Users/deniskorchagin/Desktop/CODE/Обучение/MyFirstProject /study/Img/277dd19923dad086e076ad97f1496dc4.png");
+    background-image: url(Img/flowers.png);
     background-repeat: no-repeat;
     background-size: 790px 697px;
 }
@@ -62,7 +62,7 @@ body {
     padding: 25px;
     width: 290px;
     height: 480px;
-    background-color: rgb(243, 241, 240);
+    background-color:#e9e9fa ;
 
 }
 
