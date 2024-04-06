@@ -1,0 +1,15 @@
+*,
+*::after
+*::before {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #515076;
+    background-image: url(Img/flowers.png);
+    background-repeat: no-repeat;
+    background-size: 790px 697px;
+}

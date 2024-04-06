@@ -1,0 +1,27 @@
+
+.card {
+    padding: 25px;
+    width: 290px;
+    background-color:#e6e6f2;
+}
+
+.card__category {
+    text-transform: uppercase;
+}
+
+.card__name {
+    margin-top: 10px;
+}
+
+.card_description {
+    line-height: 18px;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.card__price {
+    margin-top: 25px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
